@@ -1,4 +1,6 @@
 # Using-tools-like-John-the-Ripper-for-password-cracking
+### Name: Asin Vardhini R
+### Reg No.: 212222100007
 ## AIM:
 To crack password hashes using John the Ripper in Kali Linux.
 
